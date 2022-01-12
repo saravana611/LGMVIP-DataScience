@@ -3,7 +3,7 @@
 
   
  
-                                                                (Beginner Level Task)
+                                                            (Beginner Level Task)
  ***                                        
  ### Task 1-Iris Flowers Classification ML Project                   
                    
@@ -45,7 +45,7 @@ Dataset link : http://archive.ics.uci.edu/ml/datasets/Iris
    ***
 
 
-                                                                      (Intermediate Level Task)
+                                                                (Intermediate Level Task)
   ***                                    
                                
    ### Task 5- Exploratory Data Analysis - Terrorism
@@ -68,7 +68,7 @@ Dataset link : http://archive.ics.uci.edu/ml/datasets/Iris
 ***
   
  
-                                                                 (Advanced Level Task)
+                                                               (Advanced Level Task)
  ***                                    
    ### Task 7-Develop A Neural Network That Can Read Handwriting
    - Begin your neural network machine learning project with the MNIST Handwritten Digit Classification Challenge and using Tensorflow and CNN.
